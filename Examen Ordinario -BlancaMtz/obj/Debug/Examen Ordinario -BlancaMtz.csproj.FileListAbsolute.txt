@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-Ordinario-poo\Examen Ordinario -BlancaMtz\bin\Debug\Examen Ordinario -BlancaMtz.exe.config
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-Ordinario-poo\Examen Ordinario -BlancaMtz\bin\Debug\Examen Ordinario -BlancaMtz.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-Ordinario-poo\Examen Ordinario -BlancaMtz\bin\Debug\Examen Ordinario -BlancaMtz.pdb
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-Ordinario-poo\Examen Ordinario -BlancaMtz\obj\Debug\Examen Ordinario -BlancaMtz.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-Ordinario-poo\Examen Ordinario -BlancaMtz\obj\Debug\Examen Ordinario -BlancaMtz.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-Ordinario-poo\Examen Ordinario -BlancaMtz\obj\Debug\Examen Ordinario -BlancaMtz.pdb
